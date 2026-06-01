@@ -1,0 +1,3 @@
+Install dependencies:
+```bash
+pip install matplotlib numpy
